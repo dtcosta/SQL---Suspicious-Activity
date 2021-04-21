@@ -19,10 +19,19 @@ Using the database model as a blueprint, create a database schema for each of yo
 
 Analyze the data to identify possible fraudulent transactions.
 
+![alt text](https://github.com/dtcosta/SQL-Suspicious-Activity/blob/master/Resources/bokeh_plot.png)
+
+![alt text](https://github.com/dtcosta/SQL-Suspicious-Activity/blob/master/Resources/bokeh_plot%20(1).png)
+
+![alt text](https://github.com/dtcosta/SQL-Suspicious-Activity/blob/master/Resources/bokeh_plot%20(2).png)
+
+![alt text](https://github.com/dtcosta/SQL-Suspicious-Activity/blob/master/Resources/newplot%20(9).png)
+
 ### Data Challenge:
 
 Use standard deviation and quartiles to detect outliers identifying fraudulent transactions.
 
+Results found in motebook: [visual_data_analysis.ipynb](https://github.com/dtcosta/SQL-Suspicious-Activity/blob/master/Code/visual_data_analysis.ipynb)
 
 
 
