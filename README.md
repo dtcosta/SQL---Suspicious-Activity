@@ -10,6 +10,7 @@ I will apply SQL skills to analyze historical credit card transactions and consu
 
 Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
 
+![alt text](ERD.png "ERD")
 ### Data Engineering
 
 Using the database model as a blueprint, create a database schema for each of your tables and relationships. 
