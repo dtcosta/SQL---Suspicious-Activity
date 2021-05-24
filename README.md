@@ -1,4 +1,4 @@
-# IDENTIFYING SUSPICIOUS ACTIVITY USING SQL
+# Iendtifying Suspicous Activity Using SQL
 
 Fraud is prevalent these days, whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
 
